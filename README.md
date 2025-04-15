@@ -1,0 +1,1 @@
+"A personal portfolio website built with HTML, CSS, and JavaScript. Showcasing my skills in Logo & Branding, Social Media Design, and Graphic Designing with smooth animations and a modern responsive layout."
