@@ -202,7 +202,7 @@ p {
 /* Hero Section */
 #hero {
 	display: flex;
-	background-image: url(file:///home/ubaid/Downloads/Anas%20Awan/anas/beautiful%20website/img/awa.jpg );
+	background-image: url(awa.jpg );
 	height: 100vh;
 	min-height: 500px;
 	background-size: cover;
